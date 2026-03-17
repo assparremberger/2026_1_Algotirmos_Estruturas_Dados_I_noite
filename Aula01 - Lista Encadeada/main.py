@@ -9,3 +9,7 @@ lista.add( "Antônio" )
 lista.add( "Gabriel")
 lista.add( "Antoni" )
 lista.add( "Lorenzo" )
+
+lista.remover("Gabriel")
+lista.remover("Antoni")
+lista.remover("Adalto")
